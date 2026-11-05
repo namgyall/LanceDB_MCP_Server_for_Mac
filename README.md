@@ -1,0 +1,2 @@
+# LanceDB_MCP_Server_for_Mac
+LanceDB_MCP_Server_for_Mac
